@@ -1,3 +1,5 @@
+# finance_news_crawling_v3.py
+
 # -*- coding: utf-8 -*-
 import requests
 from bs4 import BeautifulSoup
